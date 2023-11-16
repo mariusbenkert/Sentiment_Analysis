@@ -7,7 +7,7 @@ This repository contains code for training sentiment classifiers and is structur
 |── data
     |── training
     |── validation
-|── models
+|── models                    -> (not included in this repository)
     |── bayes_classifier
     |── distilbert_classifier
     |── distilbert_tokenizer
